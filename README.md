@@ -5,3 +5,5 @@ This is an educational exercises web site/github repo for MakerFriends students.
 Students may experiment with GitHub commits, forking, branches, merging, cloning,code reviews, etc.
 
 ---
+
+<!-- test edit -->
